@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d844d9de227ebe15221debd98476982",
+    "revision": "5aceaa16a0fbeb060cda3074fb978cdf",
     "url": "/rolodex/index.html"
   },
   {
-    "revision": "d15d0c5b482f99b71669",
+    "revision": "596326d0ae9f0f8eb8ab",
     "url": "/rolodex/static/css/main.69d90519.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rolodex/static/js/2.e4d07af4.chunk.js"
   },
   {
-    "revision": "d15d0c5b482f99b71669",
-    "url": "/rolodex/static/js/main.4a9ef0f5.chunk.js"
+    "revision": "596326d0ae9f0f8eb8ab",
+    "url": "/rolodex/static/js/main.78d1562d.chunk.js"
   },
   {
     "revision": "c881b687bd97746f9202",
